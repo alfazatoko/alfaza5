@@ -1,0 +1,10 @@
+{
+  "name": "Alfaza Cell Pro",
+  "short_name": "Alfaza Cell",
+  "description": "Sistem Kasir Pro untuk Alfaza Cell",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f8",
+  "theme_color": "#2b67f6",
+  "icons": []
+}
